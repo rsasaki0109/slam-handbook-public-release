@@ -12,7 +12,7 @@ Together with a large number of experts in Simultaneous Localization and Mapping
 * Chapter6: Dense Map Representation
 * Chapter7: Theoretical Properties (TBD)
 
-## Part 2 Release (TBD)
+## Part 2 Release (Mar 2025)
 * Chapter8: Visual SLAM
 * Chapter9: LiDAR SLAM
 * Chapter10: Radar SLAM
