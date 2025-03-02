@@ -13,20 +13,22 @@ Together with a large number of experts in Simultaneous Localization and Mapping
 * Chapter7: Theoretical Properties (TBD)
 
 ## Part 2 Release (Mar 2025)
-* Chapter8: Visual SLAM
-* Chapter9: LiDAR SLAM
-* Chapter10: Radar SLAM
-* Chapter11: Event-based SLAM
-* Chapter12: Inertial Odometry for SLAM
-* Chapter13: Leg Odometry for SLAM
+* Chapter8: Part 2 Prelude
+* Chapter9: Visual SLAM
+* Chapter10: LiDAR SLAM
+* Chapter11: Radar SLAM
+* Chapter12: Event-based SLAM
+* Chapter13: Inertial Odometry for SLAM
+* Chapter14: Leg Odometry for SLAM
 
 ## Part 3 Release (TBD)
-* Chapter14: Spatial AI
-* Chapter15: Boosting SLAM with Deep Learning
-* Chapter16: NeRF and GS
-* Chapter17: Dynamic and Deformable SLAM
-* Chapter18: Metric-Semantic SLAM
-* Chapter19: Foundation Models for SLAM
+* Chapter15: Part 3 Prelude
+* Chapter16: Spatial AI
+* Chapter17: Boosting SLAM with Deep Learning
+* Chapter18: NeRF and GS
+* Chapter19: Dynamic and Deformable SLAM
+* Chapter20: Metric-Semantic SLAM
+* Chapter21: Foundation Models for SLAM
 
 ## Contributors of the Book (in an alphabetical order by their last name)
 
