@@ -21,7 +21,7 @@ Together with a large number of experts in Simultaneous Localization and Mapping
 * Chapter13: Inertial Odometry for SLAM
 * Chapter14: Leg Odometry for SLAM
 
-## Part 3 Release (TBD)
+## Part 3 Release (May 2025)
 * Chapter15: Part 3 Prelude
 * Chapter16: Spatial AI
 * Chapter17: Boosting SLAM with Deep Learning
