@@ -10,7 +10,7 @@ Together with a large number of experts in Simultaneous Localization and Mapping
 * Chapter4: Robustness to Incorrect Data Association and Outliers
 * Chapter5: Differentiable Optimization
 * Chapter6: Dense Map Representation
-* Chapter7: Theoretical Properties (TBD)
+* Chapter7: Theoretical Properties
 
 ## Part 2 Release (Mar 2025)
 * Chapter8: Part 2 Prelude
@@ -23,13 +23,13 @@ Together with a large number of experts in Simultaneous Localization and Mapping
 
 ## Part 3 Release (May 2025)
 * Chapter15: Part 3 Prelude
-* Chapter16: Spatial AI
-* Chapter17: Boosting SLAM with Deep Learning
-* Chapter18: NeRF and GS
-* Chapter19: Dynamic and Deformable SLAM
-* Chapter20: Metric-Semantic SLAM
-* Chapter21: Foundation Models for SLAM
-
+* Chapter16: Boosting SLAM with Deep Learning
+* Chapter17: Map Representations with Differentiable Volume Rendering
+* Chapter18: Dynamic and Deformable SLAM
+* Chapter19: Metric-Semantic SLAM
+* Chapter20: Open World Spatial AI
+* Chapter21: The Computational Structure of Spatial AI Systems
+  
 ## Contributors of the Book (in an alphabetical order by their last name)
 
 We deeply appreciate your contribution to this book!
