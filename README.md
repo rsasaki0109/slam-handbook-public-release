@@ -39,6 +39,7 @@ Arash Asgharivaskasi
 Nikolay Atanasov  
 Timothy Barfoot  
 Jens Behley  
+Martin Büchner  
 Cesar Cadena  
 Marco Camurri  
 Luca Carlone  
@@ -69,11 +70,13 @@ Ayoung Kim
 Giseop Kim  
 John Leonard  
 Stefan Leutenegger  
+Dominic Maggio  
 Martin Magnusson  
 Joshua Mangelson  
 Hidenobu Matsuki  
 Matias Mattamala  
-José M Martínez Montiel  
+José M Martínez Montiel   
+Sacha Morin  
 Mustafa Mukadam  
 Jose Neira  
 Paul Newman  
@@ -91,6 +94,7 @@ Cyrill Stachniss
 Niko Sunderhauf  
 Juan D. Tardós  
 Zachary Teed  
+Abhinav Valada  
 Teresa Vidal-Calleja  
 Chen Wang  
 Felix Wimbauer  
