@@ -39,6 +39,7 @@ Arash Asgharivaskasi
 Nikolay Atanasov  
 Timothy Barfoot  
 Jens Behley  
+Jose Luis Blanco-Claraco  
 Martin Büchner  
 Cesar Cadena  
 Marco Camurri  
@@ -52,6 +53,7 @@ Daniel Cremers
 Andrew J. Davison  
 Frank Dellaert  
 Jia Deng  
+Gamini Dissanayake  
 Kevin Doherty  
 Jakob Engel  
 Maurice Fallon  
