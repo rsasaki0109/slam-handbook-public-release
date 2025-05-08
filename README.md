@@ -8,7 +8,9 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 
 ## Part 1 Release (Nov 2024)
 
-<details><summary>Part 1 Prelude</summary><br>
+<details><summary>Part 1 Prelude</summary>
+  
+```bibtex
 @incollection{sh-p1-prelude,
   title        = {Part1 Prelude},
   author       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers},
@@ -16,8 +18,12 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
 }
+``` 
 </details>
-<details><summary>Chapter1: Factor Graphs for SLAM</summary><br>
+
+<details><summary>Chapter1: Factor Graphs for SLAM</summary>
+
+```bibtex
 @incollection{sh-ch1-fg4slam,
   title        = {Factor Graphs for SLAM},
   author       = {Frank Dellaert and Michael Kaess and Timothy Barfoot},
@@ -25,8 +31,13 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
 }
+```
+
 </details>
-<details><summary>Chapter2: Advanced State Variable Representations</summary><br>
+
+<details><summary>Chapter2: Advanced State Variable Representations</summary>
+
+```bibtex
 @incollection{sh-ch2-state,
   title        = {Advanced State Variable Representations},
   author       = {Timothy Barfoot and Frank Dellaert and Michael Kaess and Jose Luis Blanco-Claraco},
@@ -34,6 +45,8 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
 }
+```
+
 </details>
 <details><summary>Chapter3: Robustness to Incorrect Data Association and Outliers</summary><br>
 @incollection{sh-ch3-outlier,
