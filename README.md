@@ -8,7 +8,9 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 
 ## Part 1 Release (Nov 2024)
 
-* Part 1 Prelude
+<details><summary>Part 1 Prelude</summary><br>
+TBD
+</details>
 <details><summary>Chapter1: Factor Graphs for SLAM</summary><br>
 TBD
 </details>
