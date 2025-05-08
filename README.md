@@ -4,32 +4,42 @@ Together with a large number of experts in Simultaneous Localization and Mapping
 
 ## Part 1 Release (Nov 2024)
 
-* Chapter1: Prelude
-* Chapter2: Factor Graphs for SLAM
-* Chapter3: Advanced State Variable Representations
-* Chapter4: Robustness to Incorrect Data Association and Outliers
-* Chapter5: Differentiable Optimization
-* Chapter6: Dense Map Representation
-* Chapter7: Theoretical Properties
+* Part 1 Prelude
+* Chapter1: Factor Graphs for SLAM
+* Chapter2: Advanced State Variable Representations
+* Chapter3: Robustness to Incorrect Data Association and Outliers
+* Chapter4: Differentiable Optimization
+* Chapter5: Dense Map Representation
+* Chapter6: Theoretical Properties
 
 ## Part 2 Release (Mar 2025)
-* Chapter8: Part 2 Prelude
-* Chapter9: Visual SLAM
-* Chapter10: LiDAR SLAM
-* Chapter11: Radar SLAM
-* Chapter12: Event-based SLAM
-* Chapter13: Inertial Odometry for SLAM
-* Chapter14: Leg Odometry for SLAM
+* Part 2 Prelude
+* Chapter7: Visual SLAM
+* Chapter8: LiDAR SLAM
+* Chapter9: Radar SLAM
+* Chapter10: Event-based SLAM
+* Chapter11: Inertial Odometry for SLAM
+* Chapter12: Leg Odometry for SLAM
 
 ## Part 3 Release (May 2025)
-* Chapter15: Part 3 Prelude
-* Chapter16: Boosting SLAM with Deep Learning
-* Chapter17: Map Representations with Differentiable Volume Rendering
-* Chapter18: Dynamic and Deformable SLAM
-* Chapter19: Metric-Semantic SLAM
-* Chapter20: Open World Spatial AI
-* Chapter21: The Computational Structure of Spatial AI Systems
-  
+* Part 3 Prelude
+* Chapter13: Boosting SLAM with Deep Learning
+* Chapter14: Map Representations with Differentiable Volume Rendering
+* Chapter15: Dynamic and Deformable SLAM
+* Chapter16: Metric-Semantic SLAM
+* Chapter17: Open World Spatial AI
+* Chapter18: The Computational Structure of Spatial AI Systems
+
+## How to Cite this Book?
+
+Please cite it as a book chapter. Below is the specific bib item for each chapter.
+
+<details>
+<summary>Chapter1 Factor Graphs for SLAM</summary>
+<br>
+TBD
+</details>
+
 ## Contributors of the Book (in an alphabetical order by their last name)
 
 We deeply appreciate your contribution to this book!
