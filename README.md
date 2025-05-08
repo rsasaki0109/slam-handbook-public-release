@@ -9,22 +9,58 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 ## Part 1 Release (Nov 2024)
 
 <details><summary>Part 1 Prelude</summary><br>
-TBD
+@incollection{sh-p1-prelude,
+  title        = {Part1 Prelude},
+  author       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
 </details>
 <details><summary>Chapter1: Factor Graphs for SLAM</summary><br>
-TBD
+@incollection{sh-ch1-fg4slam,
+  title        = {Factor Graphs for SLAM},
+  author       = {Frank Dellaert and Michael Kaess and Timothy Barfoot},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
 </details>
 <details><summary>Chapter2: Advanced State Variable Representations</summary><br>
-TBD
+@incollection{sh-ch2-state,
+  title        = {Advanced State Variable Representations},
+  author       = {Timothy Barfoot and Frank Dellaert and Michael Kaess and Jose Luis Blanco-Claraco},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
 </details>
 <details><summary>Chapter3: Robustness to Incorrect Data Association and Outliers</summary><br>
-TBD
+@incollection{sh-ch3-outlier,
+  title        = {Robustness to Incorrect Data Association and Outliers},
+  author       = {Heng Yang and Josh Mangelson and Yun Chang and Jingnan Shi and Luca Carlone},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
 </details>
 <details><summary>Chapter4: Differentiable Optimization</summary><br>
-TBD
+@incollection{sh-ch4-diffopt,
+  title        = {Differentiable Optimization},
+  author       = {Chen Wang and Krishna Murthy Jatavallabhula and Mustafa Mukadam},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
 </details>
 <details><summary>Chapter5: Dense Map Representation</summary><br>
-TBD
+@incollection{sh-ch5-map,
+  title        = {Dense Map Representation},
+  author       = {Victor Reijgwart and Jens Behley and Teresa Vidal-Calleja and Helen Oleynikova and Lionel Ott and Cyrill Stachniss and Ayoung Kim},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
 </details>
 <details><summary>Chapter6: Theoretical Properties</summary><br>
 TBD
