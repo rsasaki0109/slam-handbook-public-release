@@ -48,7 +48,10 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 ```
 
 </details>
-<details><summary>Chapter3: Robustness to Incorrect Data Association and Outliers</summary><br>
+
+<details><summary>Chapter3: Robustness to Incorrect Data Association and Outliers</summary>
+
+```bibtex
 @incollection{sh-ch3-outlier,
   title        = {Robustness to Incorrect Data Association and Outliers},
   author       = {Heng Yang and Josh Mangelson and Yun Chang and Jingnan Shi and Luca Carlone},
@@ -56,8 +59,13 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
 }
+```
+
 </details>
-<details><summary>Chapter4: Differentiable Optimization</summary><br>
+
+<details><summary>Chapter4: Differentiable Optimization</summary>
+  
+```bibtex
 @incollection{sh-ch4-diffopt,
   title        = {Differentiable Optimization},
   author       = {Chen Wang and Krishna Murthy Jatavallabhula and Mustafa Mukadam},
@@ -65,8 +73,12 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
 }
+```
 </details>
-<details><summary>Chapter5: Dense Map Representation</summary><br>
+
+<details><summary>Chapter5: Dense Map Representation</summary>
+
+```bibtex
 @incollection{sh-ch5-map,
   title        = {Dense Map Representation},
   author       = {Victor Reijgwart and Jens Behley and Teresa Vidal-Calleja and Helen Oleynikova and Lionel Ott and Cyrill Stachniss and Ayoung Kim},
@@ -74,28 +86,221 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
   publisher    = {Cambridge University Press},
   editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
 }
+```
+
 </details>
-<details><summary>Chapter6: Theoretical Properties</summary><br>
-TBD
+
+<details><summary>Chapter6: Theoretical Properties</summary>
+  
+```bibtex
+@incollection{sh-ch6-theory,
+  title        = {Certifiably Optimal Solvers and Theoretical Properties of {SLAM}},
+  author       = {David M. Rosen and Kasra Khosoussi and Connor Holmes and Gamini Dissanayake and Timothy Barfoot and Luca Carlone},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
 </details>
+
 
 ## Part 2 Release (Mar 2025)
-* Part 2 Prelude
-* Chapter7: Visual SLAM
-* Chapter8: LiDAR SLAM
-* Chapter9: Radar SLAM
-* Chapter10: Event-based SLAM
-* Chapter11: Inertial Odometry for SLAM
-* Chapter12: Leg Odometry for SLAM
+<details><summary>Part 2 Prelude</summary>
+  
+```bibtex
+@incollection{sh-p2-prelude,
+  title        = {Part 2 Prelude},
+  author       = {Ayoung Kim and Timothy Barfoot and Luca Carlone and Frank Dellaert and Daniel Cremers},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
+</details>
+
+<details><summary>Chapter7: Visual SLAM</summary>
+  
+```bibtex
+@incollection{sh-ch7-vision,
+  title        = {Visual {SLAM}},
+  author       = {Jakob Engel and Juan D. Tard´os and Javier Civera and Margarita Chli and Stefan Leutenegger and Frank Dellaert and Daniel Cremers},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
+</details>
+  
+<details><summary>Chapter8: LiDAR SLAM</summary>
+  
+```bibtex
+@incollection{sh-ch8-lidar,
+  title        = {{LiDAR SLAM}},
+  author       = {Jens Behley and Maurice Fallon and Shibo Zhao and Giseop Kim and Ji Zhang and Fu Zhang and Ayoung Kim},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
+</details>
+
+<details><summary>Chapter9: Radar SLAM</summary>
+  
+```bibtex
+@incollection{sh-ch9-radar,
+  title        = {Radar {SLAM}},
+  author       = {Martin Magnusson and Christoffer Heckman and Henrik Andreasson and Ayoung Kim and Timothy Barfoot and Michael Kaess and Paul Newman},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
+</details>
+
+<details><summary>Chapter10: Event-based SLAM</summary>
+  
+```bibtex
+@incollection{sh-ch10-event,
+  title        = {Event-based {SLAM}},
+  author       = {Guillermo Gallego and Javier Hidalgo-Carri´o and Davide Scaramuzza},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
+</details>
+
+<details><summary>Chapter11: Inertial Odometry for SLAM</summary>
+  
+```bibtex
+@incollection{sh-ch11-imu,
+  title        = {Inertial Odometry for {SLAM}},
+  author       = {Guoquan (Paul) Huang and C´edric Le Gentil and Teresa Vidal-Calleja and Davide Scaramuzza and Frank Dellaert and Luca Carlone},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
+</details>
+
+<details><summary>Chapter12: Leg Odometry for SLAM</summary>
+  
+```bibtex
+@incollection{sh-ch12-proprio,
+  title        = {Leg Odometry for {SLAM}},
+  author       = {Marco Camurri and Mat´ıas Mattamala},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+``` 
+</details>
 
 ## Part 3 Release (May 2025)
-* Part 3 Prelude
-* Chapter13: Boosting SLAM with Deep Learning
-* Chapter14: Map Representations with Differentiable Volume Rendering
-* Chapter15: Dynamic and Deformable SLAM
-* Chapter16: Metric-Semantic SLAM
-* Chapter17: Open World Spatial AI
-* Chapter18: The Computational Structure of Spatial AI Systems
+
+<details><summary>Part 3 Prelude</summary>
+  
+```bibtex
+@incollection{sh-p3-prelude,
+  title        = {Part3 Prelude},
+  author       = {Marc Pollefeys and Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
+</details>
+
+<details><summary>Chapter13: Boosting SLAM with Deep Learning</summary>
+  
+```bibtex
+@incollection{sh-ch13-dl4slam,
+  title        = {Boosting {SLAM} with Deep Learning},
+  author       = {Zachary Teed and Jia Deng, Boris Chidlovskii and J´erome Revaud and Felix Wimbauer and Daniel Cremers},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
+</details>
+ 
+<details><summary>Chapter14: Map Representations with Differentiable Volume Rendering</summary>
+  
+```bibtex
+@incollection{sh-ch14-nerfgs,
+  title        = {Map Representations with Differentiable Volume Rendering},
+  author       = {Hidenobu Matsuki and Andrew J. Davison},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
+</details>
+
+<details><summary>Chapter15: Dynamic and Deformable SLAM</summary>
+  
+```bibtex
+@incollection{sh-ch15-dyndef,
+  title        = {Dynamic and Deformable {SLAM}},
+  author       = {Lukas Schmid and Jose Maria Martinez Montiel and Shoudong Huang and Daniel Cremers and Jose Neira and Javier Civera},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
+</details>
+
+<details><summary>Chapter16: Metric-Semantic SLAM</summary>
+  
+```bibtex
+@incollection{sh-ch16-semantic,
+  title        = {Metric-Semantic {SLAM}},
+  author       = {Arash Asgharivaskasi and Kevin Doherty and Jens Behley and Nathan Hughes and Yun Chang and John Leonard and Henrik I. Christensen and Luca Carlone and Nikolay Atanasov},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
+</details>
+
+<details><summary>Chapter17: Towards Open-World Spatial AI</summary>
+  
+```bibtex
+@incollection{sh-ch17-openworld,
+  title        = {Towards Open-World Spatial {AI}},
+  author       = {Liam Paull and Sacha Morin and Dominic Maggio and Martin B¨uchner and Cesar Cadena and Abhinav Valada and Luca Carlone},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+```
+
+</details>
+
+<details><summary>Chapter18: The Computational Structure of Spatial AI Systems</summary>
+  
+```bibtex
+@incollection{sh-ch18-spatial-ai,
+  title        = {The Computational Structure of Spatial {AI} Systems},
+  author       = {Andrew J. Davison},
+  booktitle    = {{SLAM Handbook.} From Localization and Mapping to Spatial Intelligence},
+  publisher    = {Cambridge University Press},
+  editor       = {Luca Carlone and Ayoung Kim and Frank Dellaert and Timothy Barfoot and Daniel Cremers}
+}
+``` 
+</details>
 
 
 
