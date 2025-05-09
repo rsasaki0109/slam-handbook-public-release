@@ -6,7 +6,7 @@ Together with a large number of experts in Simultaneous Localization and Mapping
 Please cite it as a book chapter. You can find the specific bibliography entry for each chapter by clicking the dropdown menu below.
 
 
-## Part 1 Release (Nov 2024)
+### Part 1: Foundations of SLAM
 
 <details><summary>Part 1 Prelude</summary>
   
@@ -105,7 +105,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 </details>
 
 
-## Part 2 Release (Mar 2025)
+### Part 2: SLAM in Practice
 <details><summary>Part 2 Prelude</summary>
   
 ```bibtex
@@ -203,7 +203,7 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 ``` 
 </details>
 
-## Part 3 Release (May 2025)
+### Part 3: From SLAM to Spatial AI
 
 <details><summary>Part 3 Prelude</summary>
   
