@@ -1,6 +1,8 @@
 # SLAM Handbook Public Release
 
-Together with a large number of experts in Simultaneous Localization and Mapping (SLAM) we are preparing the **SLAM Handbook** to be published by Cambridge University Press. This book will cover the theoretical background of SLAM, its applications, and its future as spatial AI. We expect this handbook will be a good guideline for those working in this field. Starting from the release of Part 1 in November 2024, and Part 2 in March 2025, we will incrementally release the other parts to accommodate feedback from the public. Please use this repository's **issue** and **discussion** board to report any issues or ideas regarding this book.
+Together with a large number of experts in Simultaneous Localization and Mapping (SLAM) we are preparing the **SLAM Handbook** to be published by Cambridge University Press. This book will cover the theoretical background of SLAM, its applications, and its future as spatial AI. We expect this handbook will be a good guideline for those working in this field. 
+
+Starting from the release of Part 1 in November 2024, Part 2 in March 2025, and Part 3 in May 2025, we incrementally release the book to accommodate feedback from the public. Please use this repository's **issue** and **discussion** board to report any issues or ideas regarding this book.
 
 ## How to Cite this Book?
 Please cite it as a book chapter. You can find the specific bibliography entry for each chapter by clicking the dropdown menu below.
@@ -319,9 +321,10 @@ If you need to cite it as a book, use the following bib.
 </details>
 
 
-## Contributors of the Book (in an alphabetical order by their last name)
+## Contributors of the Book
 
 We deeply appreciate your contribution to this book!
+(in alphabetical order by their last name)
 
 Henrik Andreasson  
 Arash Asgharivaskasi  
