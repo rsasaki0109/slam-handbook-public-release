@@ -304,6 +304,8 @@ Please cite it as a book chapter. You can find the specific bibliography entry f
 
 ### To cite it as a book
 
+If you need to cite it as a book, use the following bib.
+
 <details><summary>SLAM Handbook Bib</summary>
   
 ```bibtex
